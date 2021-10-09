@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "114893810055",
+    "project_id": "social-media-integration-3a35a",
+    "storage_bucket": "social-media-integration-3a35a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114893810055:android:c3316a7606fc7934858b22",
+        "android_client_info": {
+          "package_name": "com.priyam.flutter_firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114893810055-pjjmkdkfqp9iuv4lln3sjot9heft6a78.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.priyam.flutter_firebase_app",
+            "certificate_hash": "37736abdd48c8e660f23590d6568408ab0173825"
+          }
+        },
+        {
+          "client_id": "114893810055-gicase4jkg8eovol8knk864virv0ma0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYEst8mUIOgAillCaA7nm61H-WvQXj-qY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114893810055-gicase4jkg8eovol8knk864virv0ma0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
